@@ -1,4 +1,4 @@
-[![MasterHead](https://user-images.githubusercontent.com/74038190/241765440-80728820-e06b-4f96-9c9e-9df46f0cc0a5.gif)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Praveenan Jeevarethinam</h1>
 <h3 align="center">Undergraduate Student in the Faculty of Engineering at the University of Ruhuna.</h3>
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
