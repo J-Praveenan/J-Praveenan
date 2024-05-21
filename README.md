@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenan-4119&label=Profile%20views&color=0e75b6&style=flat" alt="praveenan-4119" /> </p>
 
-- 🌱 I’m currently learning **React and Spring Boot**
+- 🌱 I’m currently learning **Deep Learning**
 
-- 💬 Ask me about **Java and Git**
+- 💬 Ask me about **Machine Learning**
 
 - 📫 How to reach me **praveenanjvp@gmail.com**
 
