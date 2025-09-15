@@ -5,9 +5,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenan-4119&label=Profile%20views&color=0e75b6&style=flat" alt="praveenan-4119" /> </p>
 
-- 🌱 I’m currently learning **SpringBoot**
+- 🌱 I’m currently learning **DevOps**
 
-- 💬 Ask me about **React**
+- 💬 Ask me about **SpringBoot & React**
 
 - 📫 How to reach me **praveenanjvp@gmail.com**
 
