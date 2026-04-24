@@ -5,20 +5,39 @@
 <p align="center">
 🎓 Graduated from Faculty of Engineering, University of Ruhuna  
 💻 Passionate about Web3, Smart Contracts & Decentralized Applications  
-🚀 Exploring Blockchain, Ethereum, and Full Stack Development  
+🚀 Exploring Blockchain, Ethereum, Cardano and Full Stack Development  
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=praveenan-4119&label=Profile%20views&color=0e75b6&style=flat" alt="praveenan-4119" /> </p>
 
-- 🌱 I’m currently learning **DevOps**
+---
 
-- 💬 Ask me about **SpringBoot & React**
+### 🔭 Currently Working On:
+- Blockchain-based DApps on **Ethereum & Cardano**
+- Smart Contracts using **Solidity (Ethereum)** & **Aiken (Cardano)**
 
-- 📫 How to reach me **praveenanjvp@gmail.com**
+### 🌱 Currently Learning:
+- Advanced Smart Contract Security
+- Web3 Integration (**Ethers.js, Next.js**)
+- Cross-chain development (Ethereum ↔ Cardano)
 
-- ⚡ Fun fact **I am funny.**
+### 💬 Ask Me About:
+- Blockchain Development (**Ethereum & Cardano**)
+- Smart Contracts (**Solidity & Aiken**)
+- React & Next.js
+
+### 📫 How to reach me:
+- Email: **praveenanjvp@gmail.com**
+- LinkedIn: *https://www.linkedin.com/in/praveenan-jeevarethinam-93bb7420b/?skipRedirect=true*
+
+---
+
+### ⚡ Fun Fact:
+I love building real-world solutions using blockchain 🚀
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
