@@ -5,7 +5,7 @@
 <p align="center">
 🎓 Graduated from Faculty of Engineering, University of Ruhuna  
 💻 Passionate about Web3, Smart Contracts & Decentralized Applications  
-🚀 Exploring Blockchain, Ethereum, Cardano and Full Stack Development  
+🚀 Exploring Blockchain, Cardano and Full Stack Development  
 </p>
 
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/58518192/87162442-bf3e8180-c2e7-11ea-9f2a-53a50306b7ce.gif">
@@ -15,17 +15,16 @@
 ---
 
 ### 🔭 Currently Working On:
-- Blockchain-based DApps on **Ethereum & Cardano**
-- Smart Contracts using **Solidity (Ethereum)** & **Aiken (Cardano)**
+- Blockchain-based DApps on **Cardano**
+- Smart Contracts using **MeshJs)** & **Aiken**
 
 ### 🌱 Currently Learning:
 - Advanced Smart Contract Security
-- Web3 Integration (**Ethers.js, Next.js**)
-- Cross-chain development (Ethereum ↔ Cardano)
+- Web3 Integration (**Next.js & Mesh js**)
 
 ### 💬 Ask Me About:
-- Blockchain Development (**Ethereum & Cardano**)
-- Smart Contracts (**Solidity & Aiken**)
+- Blockchain Development (**Cardano**)
+- Smart Contracts (**Aiken**)
 - React & Next.js
 
 ### 📫 How to reach me:
