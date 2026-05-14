@@ -16,7 +16,7 @@
 
 ### 🔭 Currently Working On:
 - Blockchain-based DApps on **Cardano**
-- Smart Contracts using **MeshJs)** & **Aiken**
+- Smart Contracts using **MeshJs** & **Aiken**
 
 ### 🌱 Currently Learning:
 - Advanced Smart Contract Security
