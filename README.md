@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Praveenan Jeevarethinam</h1>
-<h3 align="center">Blockchain Developer | Computer Engineering Graduate</h3>
+<h3 align="center">Full Stack Developer | Blockchain Developer | Computer Engineering Graduate</h3>
 
 <p align="center">
 🎓 Graduated from Faculty of Engineering, University of Ruhuna  
@@ -15,6 +15,7 @@
 ---
 
 ### 🔭 Currently Working On:
+-  Full Stack Web Applications (Next.js, React, Spring Boot)
 - Blockchain-based DApps on **Cardano**
 - Smart Contracts using **MeshJs** & **Aiken**
 
@@ -23,6 +24,7 @@
 - Web3 Integration (**Next.js & Mesh js**)
 
 ### 💬 Ask Me About:
+- Full Stack Development
 - Blockchain Development (**Cardano**)
 - Smart Contracts (**Aiken**)
 - React & Next.js
